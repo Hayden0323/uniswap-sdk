@@ -1706,17 +1706,16 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
-"@uniswap/sdk-core@^1.0.8":
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/@uniswap/sdk-core/-/sdk-core-1.0.8.tgz#ef71021bd7f2791bdb146b740f876a4f2d89c05b"
-  integrity sha512-ted1NTEj023A501rVLdYHqvJt+abAJZPyYZKMLgQ0OGsT/rO8NCYR4kZgvwumv+c7ZlUM8jdmnkiPVH+lFc/kw==
+"@uniswap/sdk-core@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@uniswap/sdk-core/-/sdk-core-2.0.2.tgz#748d1d189503d20d3027ef69927ad13cbf2d224a"
+  integrity sha512-Cx6epJgXE/b9ZP8GAes3LiYFXuxfd7UDZtn8Wvxr6xEMh8T21HHbsoEs9sB8iCBYfYuw2PT+Pza4GJqQNvnddg==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
     decimal.js-light "^2.5.0"
     jsbi "^3.1.4"
     tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
 "@uniswap/v2-core@^1.0.1":
